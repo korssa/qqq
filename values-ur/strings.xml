@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+اجازتیں ایپ کو آپ کی ہوم اسکرین پر گھڑی دکھانے اور اسے ہموار طریقے سے چلانے کی اجازت دیتی ہیں۔
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">اوورلے</string>
+    <string name="permission_usage_stats">استعمال کی شماریات</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ دی گئی</string>
+    <string name="status_required">❌ درکار</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">اوورلے کی اجازت</string>
+    <string name="btn_overlay_granted">✅ اوورلے دی گئی</string>
+
+    <string name="btn_request_usage">استعمال کی شماریات کی اجازت</string>
+    <string name="btn_usage_granted">✅ شماریات دی گئیں</string>
+
+    <string name="btn_start_overlay">🚀 اوورلے شروع کریں</string>
+    <string name="btn_stop_overlay">🛑 اوورلے روکیں</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">اختیار: اسکرین کی اینیمیشنز کم کریں</string>
+    
+    <string name="reduce_animation_title">اینیمیشن کم کریں</string>
+    <string name="reduce_animation_go_main">مین پر واپس جائیں</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">دن کا موڈ</string>
+    <string name="reduce_animation_night_section">رات کا موڈ</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">جہازوں کا سیٹ</string>
+    <string name="toggle_day_birds">پرندے</string>
+    <string name="toggle_day_ocean_set">سمندر کا سیٹ</string>
+    <string name="toggle_day_sun_set">سورج غروب</string>
+    <string name="toggle_day_butterfly">تتلیاں</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">چاند</string>
+    <string name="toggle_night_stars_set">ستارے</string>
+    <string name="toggle_night_meteor">شہاب ثاقب</string>
+    <string name="toggle_night_aurora">آرورا</string>
+    <string name="toggle_night_leaves">گرتے پتے</string>
+    <string name="toggle_night_glow_bug">چمکتے کیڑے</string>
+    <string name="toggle_night_bottom_clock">نیچے کی گھڑی</string>
+    <string name="toggle_night_mountain">پہاڑ</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">بیٹری بچانے کے لیے اینیمیشنز آن/آف کریں۔</string>
+    <string name="reduce_animation_apply">انتخاب لاگو کریں</string>
+
+</resources>

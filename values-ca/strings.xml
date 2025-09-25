@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Els permisos permeten que l\'aplicació mostri el rellotge a la pantalla d\'inici i el mantingui funcionant sense problemes.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Superposició</string>
+    <string name="permission_usage_stats">Estadístiques d\'ús</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Concedit</string>
+    <string name="status_required">❌ Requerit</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Permís de superposició</string>
+    <string name="btn_overlay_granted">✅ Superposició concedida</string>
+
+    <string name="btn_request_usage">Permís d\'estadístiques d\'ús</string>
+    <string name="btn_usage_granted">✅ Estadístiques concedides</string>
+
+    <string name="btn_start_overlay">🚀 Iniciar superposició</string>
+    <string name="btn_stop_overlay">🛑 Aturar superposició</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Opció: Reduir animacions de pantalla</string>
+    
+    <string name="reduce_animation_title">Reduir animació</string>
+    <string name="reduce_animation_go_main">Tornar al principal</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Mode diürn</string>
+    <string name="reduce_animation_night_section">Mode nocturn</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Conjunt de vaixells</string>
+    <string name="toggle_day_birds">Ocells</string>
+    <string name="toggle_day_ocean_set">Conjunt oceànic</string>
+    <string name="toggle_day_sun_set">Posta de sol</string>
+    <string name="toggle_day_butterfly">Papallones</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Lluna</string>
+    <string name="toggle_night_stars_set">Estrelles</string>
+    <string name="toggle_night_meteor">Meteors</string>
+    <string name="toggle_night_aurora">Aurora</string>
+    <string name="toggle_night_leaves">Fulles caigudes</string>
+    <string name="toggle_night_glow_bug">Lluernes</string>
+    <string name="toggle_night_bottom_clock">Rellotge inferior</string>
+    <string name="toggle_night_mountain">Muntanyes</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Activa/desactiva les animacions per estalviar bateria.</string>
+    <string name="reduce_animation_apply">Aplicar selecció</string>
+
+</resources>

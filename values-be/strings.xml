@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 ПРАТОК ГАДЗІННІК</string>
+    <string name="desc_permissions">
+Дазволы дазваляюць праграме паказваць гадзіннік на галоўным экране і падтрымліваць яго гладкую працу.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Накладка</string>
+    <string name="permission_usage_stats">Статыстыка выкарыстання</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Прадастаўлена</string>
+    <string name="status_required">❌ Патрабуецца</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Дазвол на накладку</string>
+    <string name="btn_overlay_granted">✅ Накладка прадастаўлена</string>
+
+    <string name="btn_request_usage">Дазвол на статыстыку выкарыстання</string>
+    <string name="btn_usage_granted">✅ Статыстыка прадастаўлена</string>
+
+    <string name="btn_start_overlay">🚀 Запусціць накладку</string>
+    <string name="btn_stop_overlay">🛑 Спыніць накладку</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Опцыя: Зменшыць анімацыі экрана</string>
+    
+    <string name="reduce_animation_title">Зменшыць анімацыю</string>
+    <string name="reduce_animation_go_main">Вярнуцца да галоўнага</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Дзённы рэжым</string>
+    <string name="reduce_animation_night_section">Начны рэжым</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Набор караблёў</string>
+    <string name="toggle_day_birds">Птушкі</string>
+    <string name="toggle_day_ocean_set">Марскі набор</string>
+    <string name="toggle_day_sun_set">Заход сонца</string>
+    <string name="toggle_day_butterfly">Матылі</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Месяц</string>
+    <string name="toggle_night_stars_set">Зоркі</string>
+    <string name="toggle_night_meteor">Меэары</string>
+    <string name="toggle_night_aurora">Аўрора</string>
+    <string name="toggle_night_leaves">Ападаючыя лісты</string>
+    <string name="toggle_night_glow_bug">Святлячкі</string>
+    <string name="toggle_night_bottom_clock">Ніжні гадзіннік</string>
+    <string name="toggle_night_mountain">Горы</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Уключайце/выключайце анімацыі, каб эканоміць батарэю.</string>
+    <string name="reduce_animation_apply">Прымяніць выбар</string>
+
+</resources>

@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+ការអនុញ្ញាតអនុញ្ញាតឱ្យកម្មវិធីបង្ហាញនាឡិកាលើអេក្រង់ដើមរបស់អ្នក និងរក្សាវាឱ្យដំណើរការបានយ៉ាងរលូន។
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">ការគ្របដណ្ដប់</string>
+    <string name="permission_usage_stats">ស្ថិតិការប្រើប្រាស់</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ បានអនុញ្ញាត</string>
+    <string name="status_required">❌ ត្រូវការ</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">ការអនុញ្ញាតការគ្របដណ្ដប់</string>
+    <string name="btn_overlay_granted">✅ ការគ្របដណ្ដប់បានអនុញ្ញាត</string>
+
+    <string name="btn_request_usage">ការអនុញ្ញាតស្ថិតិការប្រើប្រាស់</string>
+    <string name="btn_usage_granted">✅ ស្ថិតិបានអនុញ្ញាត</string>
+
+    <string name="btn_start_overlay">🚀 ចាប់ផ្តើមការគ្របដណ្ដប់</string>
+    <string name="btn_stop_overlay">🛑 បញ្ឈប់ការគ្របដណ្ដប់</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">ជម្រើស៖ បន្ថយចលនាអេក្រង់</string>
+    
+    <string name="reduce_animation_title">បន្ថយចលនា</string>
+    <string name="reduce_animation_go_main">ត្រឡប់ទៅមេ</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">របៀបថ្ងៃ</string>
+    <string name="reduce_animation_night_section">របៀបយប់</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">សំណុំនាវា</string>
+    <string name="toggle_day_birds">បក្សី</string>
+    <string name="toggle_day_ocean_set">សំណុំមហាសមុទ្រ</string>
+    <string name="toggle_day_sun_set">ព្រះអាទិត្យច្រាល</string>
+    <string name="toggle_day_butterfly">មេអំបៅ</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">ព្រះច័ន្ទ</string>
+    <string name="toggle_night_stars_set">ផ្កាយ</string>
+    <string name="toggle_night_meteor">ផ្កាយធ្លាក់</string>
+    <string name="toggle_night_aurora">អ័ររ៉ូរ៉ា</string>
+    <string name="toggle_night_leaves">ស្លឹកធ្លាក់</string>
+    <string name="toggle_night_glow_bug">មហាស្សីភ្លឺ</string>
+    <string name="toggle_night_bottom_clock">នាឡិកាខាងក្រោម</string>
+    <string name="toggle_night_mountain">ភ្នំ</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">បើក/បិទចលនាដើម្បីរក្សាថ្ម។</string>
+    <string name="reduce_animation_apply">អនុវត្តការជ្រើសរើស</string>
+
+</resources>

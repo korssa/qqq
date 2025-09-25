@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Tillatelser lar appen vise klokken på hjemmeskjermen din og holde den kjører jevnt.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Overlegg</string>
+    <string name="permission_usage_stats">Bruksstatistikk</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Innvilget</string>
+    <string name="status_required">❌ Påkrevd</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Overleggstillatelse</string>
+    <string name="btn_overlay_granted">✅ Overlegg innvilget</string>
+
+    <string name="btn_request_usage">Bruksstatistikk tillatelse</string>
+    <string name="btn_usage_granted">✅ Statistikk innvilget</string>
+
+    <string name="btn_start_overlay">🚀 Start overlegg</string>
+    <string name="btn_stop_overlay">🛑 Stopp overlegg</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Alternativ: Reduser skjermanimasjoner</string>
+    
+    <string name="reduce_animation_title">Reduser animasjon</string>
+    <string name="reduce_animation_go_main">Tilbake til hoved</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Dagmodus</string>
+    <string name="reduce_animation_night_section">Nattmodus</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Skipssett</string>
+    <string name="toggle_day_birds">Fugler</string>
+    <string name="toggle_day_ocean_set">Havsett</string>
+    <string name="toggle_day_sun_set">Solnedgang</string>
+    <string name="toggle_day_butterfly">Sommerfugler</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Måne</string>
+    <string name="toggle_night_stars_set">Stjerner</string>
+    <string name="toggle_night_meteor">Meteor</string>
+    <string name="toggle_night_aurora">Aurora</string>
+    <string name="toggle_night_leaves">Fallende blader</string>
+    <string name="toggle_night_glow_bug">Lysende insekter</string>
+    <string name="toggle_night_bottom_clock">Bunnklokke</string>
+    <string name="toggle_night_mountain">Fjell</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Slå på/av animasjoner for å spare batteri.</string>
+    <string name="reduce_animation_apply">Bruk valg</string>
+
+</resources>

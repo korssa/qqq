@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Թույլտվությունները թույլ են տալիս հավելվածին ցուցադրել ժամացույցը ձեր գլխավոր էկրանին և պահպանել այն հարթ աշխատող:
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Վերածածկում</string>
+    <string name="permission_usage_stats">Օգտագործման վիճակագրություն</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Տրամադրված է</string>
+    <string name="status_required">❌ Պահանջվում է</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Վերածածկման թույլտվություն</string>
+    <string name="btn_overlay_granted">✅ Վերածածկում տրամադրված է</string>
+
+    <string name="btn_request_usage">Օգտագործման վիճակագրության թույլտվություն</string>
+    <string name="btn_usage_granted">✅ Վիճակագրություն տրամադրված է</string>
+
+    <string name="btn_start_overlay">🚀 Սկսել վերածածկումը</string>
+    <string name="btn_stop_overlay">🛑 Դադարեցնել վերածածկումը</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Ընտրություն. Նվազեցնել էկրանի անիմացիաները</string>
+    
+    <string name="reduce_animation_title">Նվազեցնել անիմացիան</string>
+    <string name="reduce_animation_go_main">Վերադառնալ հիմնականին</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Օրվա ռեժիմ</string>
+    <string name="reduce_animation_night_section">Գիշերվա ռեժիմ</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Նավերի հավաքածու</string>
+    <string name="toggle_day_birds">Տղամարդիկ</string>
+    <string name="toggle_day_ocean_set">Օվկիանոսի հավաքածու</string>
+    <string name="toggle_day_sun_set">Արևմուտք</string>
+    <string name="toggle_day_butterfly">Թիթեռներ</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Լուսին</string>
+    <string name="toggle_night_stars_set">Աստղեր</string>
+    <string name="toggle_night_meteor">Մետեորներ</string>
+    <string name="toggle_night_aurora">Ավրորա</string>
+    <string name="toggle_night_leaves">Թափվող տերևներ</string>
+    <string name="toggle_night_glow_bug">Ճայլող միջատներ</string>
+    <string name="toggle_night_bottom_clock">Ստորին ժամացույց</string>
+    <string name="toggle_night_mountain">Սարեր</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Միացրեք/անջատեք անիմացիաները մարտկոցը խնայելու համար:</string>
+    <string name="reduce_animation_apply">Կիրառել ընտրությունը</string>
+
+</resources>

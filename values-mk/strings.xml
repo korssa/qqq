@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Дозволите му дозволуваат на апликацијата да го прикажува часовникот на вашиот почетен екран и да го одржува да работи непречено.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Преклопување</string>
+    <string name="permission_usage_stats">Статистика за користење</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Доделено</string>
+    <string name="status_required">❌ Потребно</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Дозвола за преклопување</string>
+    <string name="btn_overlay_granted">✅ Преклопувањето доделено</string>
+
+    <string name="btn_request_usage">Дозвола за статистика за користење</string>
+    <string name="btn_usage_granted">✅ Статистиката доделена</string>
+
+    <string name="btn_start_overlay">🚀 Започни преклопување</string>
+    <string name="btn_stop_overlay">🛑 Застани преклопување</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Опција: Намали анимации на екранот</string>
+    
+    <string name="reduce_animation_title">Намали анимација</string>
+    <string name="reduce_animation_go_main">Врати се на главно</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Дневен режим</string>
+    <string name="reduce_animation_night_section">Ноќен режим</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Комплект бродови</string>
+    <string name="toggle_day_birds">Птици</string>
+    <string name="toggle_day_ocean_set">Океански комплект</string>
+    <string name="toggle_day_sun_set">Зајдисонце</string>
+    <string name="toggle_day_butterfly">Пеперутки</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Месечината</string>
+    <string name="toggle_night_stars_set">Ѕвезди</string>
+    <string name="toggle_night_meteor">Метеори</string>
+    <string name="toggle_night_aurora">Аврора</string>
+    <string name="toggle_night_leaves">Паѓачки листови</string>
+    <string name="toggle_night_glow_bug">Светлечки инсекти</string>
+    <string name="toggle_night_bottom_clock">Долен часовник</string>
+    <string name="toggle_night_mountain">Планини</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Вклучи/исклучи анимации за да заштедиш батерија.</string>
+    <string name="reduce_animation_apply">Примени избор</string>
+
+</resources>

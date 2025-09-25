@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Ruhusa huruhusu programu kuonyesha saa kwenye skrini yako ya nyumbani na kuiweka ikifanya kazi vizuri.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Kufunika</string>
+    <string name="permission_usage_stats">Takwimu za matumizi</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Imetolewa</string>
+    <string name="status_required">❌ Inahitajika</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Ruhusa ya kufunika</string>
+    <string name="btn_overlay_granted">✅ Kufunika kimetolewa</string>
+
+    <string name="btn_request_usage">Ruhusa ya takwimu za matumizi</string>
+    <string name="btn_usage_granted">✅ Takwimu zimetolewa</string>
+
+    <string name="btn_start_overlay">🚀 Anza kufunika</string>
+    <string name="btn_stop_overlay">🛑 Simamisha kufunika</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Chaguo: Punguza michoro ya skrini</string>
+    
+    <string name="reduce_animation_title">Punguza michoro</string>
+    <string name="reduce_animation_go_main">Rudi kwenye kuu</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Hali ya mchana</string>
+    <string name="reduce_animation_night_section">Hali ya usiku</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Seti ya meli</string>
+    <string name="toggle_day_birds">Ndege</string>
+    <string name="toggle_day_ocean_set">Seti ya bahari</string>
+    <string name="toggle_day_sun_set">Machweo ya jua</string>
+    <string name="toggle_day_butterfly">Vipepeo</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Mwezi</string>
+    <string name="toggle_night_stars_set">Nyota</string>
+    <string name="toggle_night_meteor">Meteori</string>
+    <string name="toggle_night_aurora">Aurora</string>
+    <string name="toggle_night_leaves">Majani yanayoanguka</string>
+    <string name="toggle_night_glow_bug">Mende wanaong'aa</string>
+    <string name="toggle_night_bottom_clock">Saa ya chini</string>
+    <string name="toggle_night_mountain">Milima</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Washa/zima michoro ili kuokoa betri.</string>
+    <string name="reduce_animation_apply">Tekeleza uchaguzi</string>
+
+</resources>

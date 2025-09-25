@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Lubadused võimaldavad rakendusel näidata kella avakuval ja hoida seda sujuvalt töötamas.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Ülekate</string>
+    <string name="permission_usage_stats">Kasutusstatistika</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Antud</string>
+    <string name="status_required">❌ Nõutav</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Ülekateloa</string>
+    <string name="btn_overlay_granted">✅ Ülekate antud</string>
+
+    <string name="btn_request_usage">Kasutusstatistika loa</string>
+    <string name="btn_usage_granted">✅ Kasutusstatistika antud</string>
+
+    <string name="btn_start_overlay">🚀 Käivita ülekate</string>
+    <string name="btn_stop_overlay">🛑 Peata ülekate</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Valik: Vähenda ekraanianimatsioone</string>
+    
+    <string name="reduce_animation_title">Vähenda animatsiooni</string>
+    <string name="reduce_animation_go_main">Tagasi põhilehele</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Päevarežiim</string>
+    <string name="reduce_animation_night_section">Öörežiim</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Laevakomplekt</string>
+    <string name="toggle_day_birds">Linnud</string>
+    <string name="toggle_day_ocean_set">Ookeanikomplekt</string>
+    <string name="toggle_day_sun_set">Päikeseloojang</string>
+    <string name="toggle_day_butterfly">Liblikad</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Kuu</string>
+    <string name="toggle_night_stars_set">Tähed</string>
+    <string name="toggle_night_meteor">Meteoorid</string>
+    <string name="toggle_night_aurora">Aurora</string>
+    <string name="toggle_night_leaves">Kukkujad lehed</string>
+    <string name="toggle_night_glow_bug">Hõõguvad putukad</string>
+    <string name="toggle_night_bottom_clock">Alumine kell</string>
+    <string name="toggle_night_mountain">Mäed</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Lülita animatsioonid sisse/välja, et säästa akut.</string>
+    <string name="reduce_animation_apply">Rakenda valik</string>
+
+</resources>

@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Lejet i lejojnë aplikimit të shfaqë orën në ekranin tuaj kryesor dhe ta mbajë atë duke punuar pa probleme.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Mbivendosje</string>
+    <string name="permission_usage_stats">Statistikat e përdorimit</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Dhënë</string>
+    <string name="status_required">❌ Kërkohet</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Leje mbivendosje</string>
+    <string name="btn_overlay_granted">✅ Mbivendosja dhënë</string>
+
+    <string name="btn_request_usage">Leje statistikash përdorimi</string>
+    <string name="btn_usage_granted">✅ Statistikat dhënë</string>
+
+    <string name="btn_start_overlay">🚀 Fillo mbivendosjen</string>
+    <string name="btn_stop_overlay">🛑 Ndalo mbivendosjen</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Opsion: Ul animacionet e ekranit</string>
+    
+    <string name="reduce_animation_title">Ul animacionin</string>
+    <string name="reduce_animation_go_main">Kthehu në kryesore</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Modaliteti ditë</string>
+    <string name="reduce_animation_night_section">Modaliteti natë</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Set anijesh</string>
+    <string name="toggle_day_birds">Zogj</string>
+    <string name="toggle_day_ocean_set">Set oqeani</string>
+    <string name="toggle_day_sun_set">Perëndimi i diellit</string>
+    <string name="toggle_day_butterfly">Flutura</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Hëna</string>
+    <string name="toggle_night_stars_set">Yje</string>
+    <string name="toggle_night_meteor">Meteorë</string>
+    <string name="toggle_night_aurora">Aurora</string>
+    <string name="toggle_night_leaves">Gjethe që bien</string>
+    <string name="toggle_night_glow_bug">Insekte që shkëlqejnë</string>
+    <string name="toggle_night_bottom_clock">Ora e poshtme</string>
+    <string name="toggle_night_mountain">Male</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Ndiz/fik animacionet për të kursyer baterinë.</string>
+    <string name="reduce_animation_apply">Zbato zgjedhjen</string>
+
+</resources>

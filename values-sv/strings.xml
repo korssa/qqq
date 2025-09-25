@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Behörigheter tillåter appen att visa klockan på din hemskärm och hålla den igång smidigt.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Överlägg</string>
+    <string name="permission_usage_stats">Användningsstatistik</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Beviljad</string>
+    <string name="status_required">❌ Krävs</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Överläggsbehörighet</string>
+    <string name="btn_overlay_granted">✅ Överlägg beviljat</string>
+
+    <string name="btn_request_usage">Användningsstatistik behörighet</string>
+    <string name="btn_usage_granted">✅ Statistik beviljad</string>
+
+    <string name="btn_start_overlay">🚀 Starta överlägg</string>
+    <string name="btn_stop_overlay">🛑 Stoppa överlägg</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Alternativ: Minska skärmanimationer</string>
+    
+    <string name="reduce_animation_title">Minska animation</string>
+    <string name="reduce_animation_go_main">Tillbaka till huvud</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Dagläge</string>
+    <string name="reduce_animation_night_section">Nattläge</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Skeppsuppsättning</string>
+    <string name="toggle_day_birds">Fåglar</string>
+    <string name="toggle_day_ocean_set">Havsuppsättning</string>
+    <string name="toggle_day_sun_set">Solnedgång</string>
+    <string name="toggle_day_butterfly">Fjärilar</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Måne</string>
+    <string name="toggle_night_stars_set">Stjärnor</string>
+    <string name="toggle_night_meteor">Meteorer</string>
+    <string name="toggle_night_aurora">Aurora</string>
+    <string name="toggle_night_leaves">Fallande löv</string>
+    <string name="toggle_night_glow_bug">Lysande insekter</string>
+    <string name="toggle_night_bottom_clock">Nedre klocka</string>
+    <string name="toggle_night_mountain">Berg</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Slå på/av animationer för att spara batteri.</string>
+    <string name="reduce_animation_apply">Tillämpa val</string>
+
+</resources>

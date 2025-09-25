@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+അനുമതികൾ ആപ്പിന് നിങ്ങളുടെ ഹോം സ്ക്രീനിൽ ക്ലോക്ക് കാണിക്കാനും അത് സുഗമമായി പ്രവർത്തിക്കാൻ സഹായിക്കുന്നു.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">ഓവർലേ</string>
+    <string name="permission_usage_stats">ഉപയോഗ സ്ഥിതിവിവരക്കണക്കുകൾ</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ നൽകി</string>
+    <string name="status_required">❌ ആവശ്യമാണ്</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">ഓവർലേ അനുമതി</string>
+    <string name="btn_overlay_granted">✅ ഓവർലേ നൽകി</string>
+
+    <string name="btn_request_usage">ഉപയോഗ സ്ഥിതിവിവരക്കണക്കുകൾ അനുമതി</string>
+    <string name="btn_usage_granted">✅ സ്ഥിതിവിവരക്കണക്കുകൾ നൽകി</string>
+
+    <string name="btn_start_overlay">🚀 ഓവർലേ ആരംഭിക്കുക</string>
+    <string name="btn_stop_overlay">🛑 ഓവർലേ നിർത്തുക</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">ഓപ്ഷൻ: സ്ക്രീൻ ആനിമേഷനുകൾ കുറയ്ക്കുക</string>
+    
+    <string name="reduce_animation_title">ആനിമേഷൻ കുറയ്ക്കുക</string>
+    <string name="reduce_animation_go_main">പ്രധാനത്തിലേക്ക് മടങ്ങുക</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">ദിവസ മോഡ്</string>
+    <string name="reduce_animation_night_section">രാത്രി മോഡ്</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">കപ്പൽ സെറ്റ്</string>
+    <string name="toggle_day_birds">പക്ഷികൾ</string>
+    <string name="toggle_day_ocean_set">സമുദ്ര സെറ്റ്</string>
+    <string name="toggle_day_sun_set">സൂര്യാസ്തമയം</string>
+    <string name="toggle_day_butterfly">ചിത്രശലഭങ്ങൾ</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">ചന്ദ്രൻ</string>
+    <string name="toggle_night_stars_set">നക്ഷത്രങ്ങൾ</string>
+    <string name="toggle_night_meteor">ഉൽക്കകൾ</string>
+    <string name="toggle_night_aurora">ഓറോറ</string>
+    <string name="toggle_night_leaves">ഉതിരുന്ന ഇലകൾ</string>
+    <string name="toggle_night_glow_bug">ജ്വലിക്കുന്ന ബഗുകൾ</string>
+    <string name="toggle_night_bottom_clock">താഴെയുള്ള ക്ലോക്ക്</string>
+    <string name="toggle_night_mountain">പർവ്വതങ്ങൾ</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">ബാറ്ററി സംരക്ഷിക്കാൻ ആനിമേഷനുകൾ ഓൺ/ഓഫ് ചെയ്യുക.</string>
+    <string name="reduce_animation_apply">തിരഞ്ഞെടുക്കൽ പ്രയോഗിക്കുക</string>
+
+</resources>

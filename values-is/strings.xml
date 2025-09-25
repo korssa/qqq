@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Leyfi leyfa forritinu að sýna klukkuna á heimaskjánum þínum og halda henni að ganga vel.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Yfirlag</string>
+    <string name="permission_usage_stats">Notkunartölfræði</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Veitt</string>
+    <string name="status_required">❌ Nauðsynlegt</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Yfirlag leyfi</string>
+    <string name="btn_overlay_granted">✅ Yfirlag veitt</string>
+
+    <string name="btn_request_usage">Notkunartölfræði leyfi</string>
+    <string name="btn_usage_granted">✅ Tölfræði veitt</string>
+
+    <string name="btn_start_overlay">🚀 Ræsa yfirlag</string>
+    <string name="btn_stop_overlay">🛑 Stöðva yfirlag</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Valkostur: Minnka skjámyndir</string>
+    
+    <string name="reduce_animation_title">Minnka myndir</string>
+    <string name="reduce_animation_go_main">Til baka að aðal</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Dagstilling</string>
+    <string name="reduce_animation_night_section">Næturtilling</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Skipasett</string>
+    <string name="toggle_day_birds">Fuglar</string>
+    <string name="toggle_day_ocean_set">Hafsætt</string>
+    <string name="toggle_day_sun_set">Sólsetur</string>
+    <string name="toggle_day_butterfly">Fífldir</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Tungl</string>
+    <string name="toggle_night_stars_set">Stjörnur</string>
+    <string name="toggle_night_meteor">Loftsteinar</string>
+    <string name="toggle_night_aurora">Norðurljós</string>
+    <string name="toggle_night_leaves">Fallandi lauf</string>
+    <string name="toggle_night_glow_bug">Ljósandi skordýr</string>
+    <string name="toggle_night_bottom_clock">Neðri klukka</string>
+    <string name="toggle_night_mountain">Fjall</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Kveiktu/slökktu á myndum til að spara rafhlöðu.</string>
+    <string name="reduce_animation_apply">Virkja val</string>
+
+</resources>

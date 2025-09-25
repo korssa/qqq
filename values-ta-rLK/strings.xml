@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+அனுமதிகள் பயன்பாட்டை உங்கள் முதன்மைத் திரையில் கடிகாரத்தைக் காட்சி செய்ய மற்றும் அதை மென்மையாக இயக்க அனுமதிக்கின்றன.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">மேல்பொருத்தம்</string>
+    <string name="permission_usage_stats">பயன்பாட்டு புள்ளியியல்</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ வழங்கப்பட்டது</string>
+    <string name="status_required">❌ தேவை</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">மேல்பொருத்த அனுமதி</string>
+    <string name="btn_overlay_granted">✅ மேல்பொருத்தம் வழங்கப்பட்டது</string>
+
+    <string name="btn_request_usage">பயன்பாட்டு புள்ளியியல் அனுமதி</string>
+    <string name="btn_usage_granted">✅ புள்ளியியல் வழங்கப்பட்டது</string>
+
+    <string name="btn_start_overlay">🚀 மேல்பொருத்தத்தைத் தொடங்கு</string>
+    <string name="btn_stop_overlay">🛑 மேல்பொருத்தத்தை நிறுத்து</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">விருப்பம்: திரை அனிமேஷன்களைக் குறைக்க</string>
+    
+    <string name="reduce_animation_title">அனிமேஷனைக் குறைக்க</string>
+    <string name="reduce_animation_go_main">முதன்மைக்குத் திரும்பு</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">பகல் முறை</string>
+    <string name="reduce_animation_night_section">இரவு முறை</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">கப்பல் தொகுப்பு</string>
+    <string name="toggle_day_birds">பறவைகள்</string>
+    <string name="toggle_day_ocean_set">கடல் தொகுப்பு</string>
+    <string name="toggle_day_sun_set">சூரிய அஸ்தமனம்</string>
+    <string name="toggle_day_butterfly">வண்ணத்துப்பூச்சிகள்</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">நிலவு</string>
+    <string name="toggle_night_stars_set">நட்சத்திர தொகுப்பு</string>
+    <string name="toggle_night_meteor">விண்கல்</string>
+    <string name="toggle_night_aurora">ஆரோரா</string>
+    <string name="toggle_night_leaves">விழும் இலைகள்</string>
+    <string name="toggle_night_glow_bug">ஒளிரும் பூச்சிகள்</string>
+    <string name="toggle_night_bottom_clock">கீழ் கடிகாரம்</string>
+    <string name="toggle_night_mountain">மலை</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">பேட்டரியைச் சேமிக்க அனிமேஷன்களை இயக்கு/நிறுத்து.</string>
+    <string name="reduce_animation_apply">தேர்வைப் பயன்படுத்து</string>
+
+</resources>

@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+İcazələr tətbiqin saatı ana ekranınızda göstərməsinə və hamar işləməsini təmin etməsinə imkan verir.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Örtük</string>
+    <string name="permission_usage_stats">İstifadə Statistikaları</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Verildi</string>
+    <string name="status_required">❌ Tələb olunur</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Örtük İcazəsi</string>
+    <string name="btn_overlay_granted">✅ Örtük Verildi</string>
+
+    <string name="btn_request_usage">İstifadə Statistikaları İcazəsi</string>
+    <string name="btn_usage_granted">✅ İstifadə Verildi</string>
+
+    <string name="btn_start_overlay">🚀 Örtüyü Başlat</string>
+    <string name="btn_stop_overlay">🛑 Örtüyü Dayandır</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Seçim: Ekran animasiyalarını azaldın</string>
+    
+    <string name="reduce_animation_title">Animasiyanı Azaldın</string>
+    <string name="reduce_animation_go_main">Əsas səhifəyə qayıt</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Gündüz Rejimi</string>
+    <string name="reduce_animation_night_section">Gecə Rejimi</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Gəmi dəsti</string>
+    <string name="toggle_day_birds">Quşlar</string>
+    <string name="toggle_day_ocean_set">Dəniz dəsti</string>
+    <string name="toggle_day_sun_set">Gün batımı</string>
+    <string name="toggle_day_butterfly">Kəpənəklər</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Ay</string>
+    <string name="toggle_night_stars_set">Ulduzlar</string>
+    <string name="toggle_night_meteor">Meteorlar</string>
+    <string name="toggle_night_aurora">Avrora</string>
+    <string name="toggle_night_leaves">Düşən yarpaqlar</string>
+    <string name="toggle_night_glow_bug">Parlayan böcəklər</string>
+    <string name="toggle_night_bottom_clock">Aşağı saat</string>
+    <string name="toggle_night_mountain">Dağlar</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Batareyanı qənaət etmək üçün animasiyaları açın/qapadın.</string>
+    <string name="reduce_animation_apply">Seçimi tətbiq et</string>
+
+</resources>

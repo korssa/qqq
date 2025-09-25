@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+પરવાનગીઓ એપ્લિકેશનને તમારી હોમ સ્ક્રીન પર ઘડિયાળ દર્શાવવા અને તેને સરળતાથી ચલાવવા માટે પરવાનગી આપે છે.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">ઓવરલે</string>
+    <string name="permission_usage_stats">વપરાશ આંકડા</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ આપવામાં આવ્યું</string>
+    <string name="status_required">❌ જરૂરી</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">ઓવરલે પરવાનગી</string>
+    <string name="btn_overlay_granted">✅ ઓવરલે આપવામાં આવ્યું</string>
+
+    <string name="btn_request_usage">વપરાશ આંકડા પરવાનગી</string>
+    <string name="btn_usage_granted">✅ આંકડા આપવામાં આવ્યા</string>
+
+    <string name="btn_start_overlay">🚀 ઓવરલે શરૂ કરો</string>
+    <string name="btn_stop_overlay">🛑 ઓવરલે બંધ કરો</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">વિકલ્પ: સ્ક્રીન એનિમેશન ઘટાડો</string>
+    
+    <string name="reduce_animation_title">એનિમેશન ઘટાડો</string>
+    <string name="reduce_animation_go_main">મુખ્ય પર પાછા જાઓ</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">દિવસ મોડ</string>
+    <string name="reduce_animation_night_section">રાત્રિ મોડ</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">જહાજ સેટ</string>
+    <string name="toggle_day_birds">પક્ષીઓ</string>
+    <string name="toggle_day_ocean_set">મહાસાગર સેટ</string>
+    <string name="toggle_day_sun_set">સૂર્યાસ્ત</string>
+    <string name="toggle_day_butterfly">બટરફ્લાઇઝ</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">ચંદ્ર</string>
+    <string name="toggle_night_stars_set">તારાઓ</string>
+    <string name="toggle_night_meteor">ઉલ્કાઓ</string>
+    <string name="toggle_night_aurora">ઓરોરા</string>
+    <string name="toggle_night_leaves">પડતા પાંદડા</string>
+    <string name="toggle_night_glow_bug">ચમકતા જીવજંતુઓ</string>
+    <string name="toggle_night_bottom_clock">નીચેનું ઘડિયાળ</string>
+    <string name="toggle_night_mountain">પર્વતો</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">બેટરી બચાવવા માટે એનિમેશન ચાલુ/બંધ કરો.</string>
+    <string name="reduce_animation_apply">પસંદગી લાગુ કરો</string>
+
+</resources>

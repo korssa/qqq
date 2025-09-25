@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+ਅਨੁਮਤੀਆਂ ਐਪ ਨੂੰ ਤੁਹਾਡੀ ਹੋਮ ਸਕ੍ਰੀਨ ਤੇ ਘੜੀ ਦਿਖਾਉਣ ਅਤੇ ਇਸਨੂੰ ਸਮੁੱਚੇ ਤੌਰ ਤੇ ਚਲਾਉਣ ਦੀ ਆਗਿਆ ਦਿੰਦੀਆਂ ਹਨ।
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">ਓਵਰਲੇ</string>
+    <string name="permission_usage_stats">ਵਰਤੋਂ ਅੰਕੜੇ</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ ਦਿੱਤਾ ਗਿਆ</string>
+    <string name="status_required">❌ ਲੋੜੀਂਦਾ</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">ਓਵਰਲੇ ਅਨੁਮਤੀ</string>
+    <string name="btn_overlay_granted">✅ ਓਵਰਲੇ ਦਿੱਤਾ ਗਿਆ</string>
+
+    <string name="btn_request_usage">ਵਰਤੋਂ ਅੰਕੜੇ ਅਨੁਮਤੀ</string>
+    <string name="btn_usage_granted">✅ ਅੰਕੜੇ ਦਿੱਤੇ ਗਏ</string>
+
+    <string name="btn_start_overlay">🚀 ਓਵਰਲੇ ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="btn_stop_overlay">🛑 ਓਵਰਲੇ ਰੋਕੋ</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">ਵਿਕਲਪ: ਸਕ੍ਰੀਨ ਐਨੀਮੇਸ਼ਨ ਘਟਾਓ</string>
+    
+    <string name="reduce_animation_title">ਐਨੀਮੇਸ਼ਨ ਘਟਾਓ</string>
+    <string name="reduce_animation_go_main">ਮੁੱਖ ਵਾਪਸ ਜਾਓ</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">ਦਿਨ ਮੋਡ</string>
+    <string name="reduce_animation_night_section">ਰਾਤ ਮੋਡ</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">ਜਹਾਜ਼ ਸੈੱਟ</string>
+    <string name="toggle_day_birds">ਪੰਛੀ</string>
+    <string name="toggle_day_ocean_set">ਮਹਾਸਾਗਰ ਸੈੱਟ</string>
+    <string name="toggle_day_sun_set">ਸੂਰਜ ਡੁੱਬਣਾ</string>
+    <string name="toggle_day_butterfly">ਤਿਤਲੀਆਂ</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">ਚੰਦ</string>
+    <string name="toggle_night_stars_set">ਤਾਰੇ</string>
+    <string name="toggle_night_meteor">ਉਲਕਾ</string>
+    <string name="toggle_night_aurora">ਔਰੋਰਾ</string>
+    <string name="toggle_night_leaves">ਗਿਰਦੇ ਪੱਤੇ</string>
+    <string name="toggle_night_glow_bug">ਚਮਕਦੇ ਕੀੜੇ</string>
+    <string name="toggle_night_bottom_clock">ਹੇਠਲੀ ਘੜੀ</string>
+    <string name="toggle_night_mountain">ਪਹਾੜ</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">ਬੈਟਰੀ ਬਚਾਉਣ ਲਈ ਐਨੀਮੇਸ਼ਨ ਚਾਲੂ/ਬੰਦ ਕਰੋ।</string>
+    <string name="reduce_animation_apply">ਚੋਣ ਲਾਗੂ ਕਰੋ</string>
+
+</resources>

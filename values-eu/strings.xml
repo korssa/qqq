@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Baimenek aplikazioari erlojuaren erakustea ahalbidetzen diote hasierako pantailan eta funtzionamendu leuna mantentzen dute.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Gainjarpena</string>
+    <string name="permission_usage_stats">Erabilera estatistikak</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Eman da</string>
+    <string name="status_required">❌ Beharrezkoa</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Gainjarpen baimena</string>
+    <string name="btn_overlay_granted">✅ Gainjarpena eman da</string>
+
+    <string name="btn_request_usage">Erabilera estatistiken baimena</string>
+    <string name="btn_usage_granted">✅ Estatistikak eman dira</string>
+
+    <string name="btn_start_overlay">🚀 Hasi gainjarpena</string>
+    <string name="btn_stop_overlay">🛑 Gelditu gainjarpena</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Aukera: Murriztu pantaila animazioak</string>
+    
+    <string name="reduce_animation_title">Murriztu animazioa</string>
+    <string name="reduce_animation_go_main">Itzuli nagusira</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Eguneko modua</string>
+    <string name="reduce_animation_night_section">Gaueko modua</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Ontzi multzoa</string>
+    <string name="toggle_day_birds">Hegaztiak</string>
+    <string name="toggle_day_ocean_set">Ozeano multzoa</string>
+    <string name="toggle_day_sun_set">Eguzki-egonketa</string>
+    <string name="toggle_day_butterfly">Tximeletak</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Ilargia</string>
+    <string name="toggle_night_stars_set">Izar multzoa</string>
+    <string name="toggle_night_meteor">Meteoroak</string>
+    <string name="toggle_night_aurora">Aurora</string>
+    <string name="toggle_night_leaves">Erortzen diren hostoak</string>
+    <string name="toggle_night_glow_bug">Dirdiratsuak</string>
+    <string name="toggle_night_bottom_clock">Beheko erlojua</string>
+    <string name="toggle_night_mountain">Mendiak</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Piztu/itzali animazioak bateria aurrezteko.</string>
+    <string name="reduce_animation_apply">Aplikatu hautaketa</string>
+
+</resources>

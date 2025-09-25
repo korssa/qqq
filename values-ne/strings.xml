@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+अनुमतिहरूले एपलाई तपाईंको होम स्क्रिनमा घडी देखाउन र यसलाई सुचारु रूपमा चलाउन अनुमति दिन्छ।
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">ओभरले</string>
+    <string name="permission_usage_stats">प्रयोग तथ्याङ्क</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ प्रदान गरिएको</string>
+    <string name="status_required">❌ आवश्यक</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">ओभरले अनुमति</string>
+    <string name="btn_overlay_granted">✅ ओभरले प्रदान गरिएको</string>
+
+    <string name="btn_request_usage">प्रयोग तथ्याङ्क अनुमति</string>
+    <string name="btn_usage_granted">✅ तथ्याङ्क प्रदान गरिएको</string>
+
+    <string name="btn_start_overlay">🚀 ओभरले सुरु गर्नुहोस्</string>
+    <string name="btn_stop_overlay">🛑 ओभरले रोक्नुहोस्</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">विकल्प: स्क्रिन एनिमेसनहरू घटाउनुहोस्</string>
+    
+    <string name="reduce_animation_title">एनिमेसन घटाउनुहोस्</string>
+    <string name="reduce_animation_go_main">मुख्यमा फर्कनुहोस्</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">दिन मोड</string>
+    <string name="reduce_animation_night_section">रात मोड</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">जहाज सेट</string>
+    <string name="toggle_day_birds">चरा</string>
+    <string name="toggle_day_ocean_set">महासागर सेट</string>
+    <string name="toggle_day_sun_set">सूर्यास्त</string>
+    <string name="toggle_day_butterfly">पुतलीहरू</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">जून</string>
+    <string name="toggle_night_stars_set">तारा</string>
+    <string name="toggle_night_meteor">उल्का</string>
+    <string name="toggle_night_aurora">अरोरा</string>
+    <string name="toggle_night_leaves">गिरेका पातहरू</string>
+    <string name="toggle_night_glow_bug">चम्कने कीरा</string>
+    <string name="toggle_night_bottom_clock">तलको घडी</string>
+    <string name="toggle_night_mountain">पहाडहरू</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">ब्याट्री बचत गर्न एनिमेसनहरू खोल्नुहोस्/बन्द गर्नुहोस्।</string>
+    <string name="reduce_animation_apply">छनोट लागू गर्नुहोस्</string>
+
+</resources>

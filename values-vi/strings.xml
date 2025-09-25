@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Quyền cho phép ứng dụng hiển thị đồng hồ trên màn hình chính của bạn và chạy mượt mà.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Lớp phủ</string>
+    <string name="permission_usage_stats">Thống kê sử dụng</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Đã cấp</string>
+    <string name="status_required">❌ Cần thiết</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Quyền lớp phủ</string>
+    <string name="btn_overlay_granted">✅ Lớp phủ đã cấp</string>
+
+    <string name="btn_request_usage">Quyền thống kê sử dụng</string>
+    <string name="btn_usage_granted">✅ Thống kê đã cấp</string>
+
+    <string name="btn_start_overlay">🚀 Bắt đầu lớp phủ</string>
+    <string name="btn_stop_overlay">🛑 Dừng lớp phủ</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Tùy chọn: Giảm hoạt hình màn hình</string>
+    
+    <string name="reduce_animation_title">Giảm hoạt hình</string>
+    <string name="reduce_animation_go_main">Quay lại chính</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Chế độ ngày</string>
+    <string name="reduce_animation_night_section">Chế độ đêm</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Bộ tàu</string>
+    <string name="toggle_day_birds">Chim</string>
+    <string name="toggle_day_ocean_set">Bộ đại dương</string>
+    <string name="toggle_day_sun_set">Hoàng hôn</string>
+    <string name="toggle_day_butterfly">Bướm</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Mặt trăng</string>
+    <string name="toggle_night_stars_set">Bộ sao</string>
+    <string name="toggle_night_meteor">Sao băng</string>
+    <string name="toggle_night_aurora">Aurora</string>
+    <string name="toggle_night_leaves">Lá rơi</string>
+    <string name="toggle_night_glow_bug">Bọ phát sáng</string>
+    <string name="toggle_night_bottom_clock">Đồng hồ dưới</string>
+    <string name="toggle_night_mountain">Núi</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Bật/tắt hoạt hình để tiết kiệm pin.</string>
+    <string name="reduce_animation_apply">Áp dụng lựa chọn</string>
+
+</resources>

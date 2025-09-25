@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+ಅನುಮತಿಗಳು ಅಪ್ಲಿಕೇಶನ್‌ಗೆ ನಿಮ್ಮ ಮುಖ್ಯ ಪರದೆಯಲ್ಲಿ ಗಡಿಯಾರವನ್ನು ತೋರಿಸಲು ಮತ್ತು ಅದನ್ನು ಸುಗಮವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವಂತೆ ಇರಿಸಲು ಅನುಮತಿಸುತ್ತದೆ.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">ಓವರ್ಲೇ</string>
+    <string name="permission_usage_stats">ಬಳಕೆಯ ಅಂಕಿಅಂಶಗಳು</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ ನೀಡಲಾಗಿದೆ</string>
+    <string name="status_required">❌ ಅಗತ್ಯವಿದೆ</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">ಓವರ್ಲೇ ಅನುಮತಿ</string>
+    <string name="btn_overlay_granted">✅ ಓವರ್ಲೇ ನೀಡಲಾಗಿದೆ</string>
+
+    <string name="btn_request_usage">ಬಳಕೆಯ ಅಂಕಿಅಂಶಗಳ ಅನುಮತಿ</string>
+    <string name="btn_usage_granted">✅ ಅಂಕಿಅಂಶಗಳು ನೀಡಲಾಗಿವೆ</string>
+
+    <string name="btn_start_overlay">🚀 ಓವರ್ಲೇ ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="btn_stop_overlay">🛑 ಓವರ್ಲೇ ನಿಲ್ಲಿಸಿ</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">ಆಯ್ಕೆ: ಪರದೆಯ ಅನಿಮೇಶನ್‌ಗಳನ್ನು ಕಡಿಮೆ ಮಾಡಿ</string>
+    
+    <string name="reduce_animation_title">ಅನಿಮೇಶನ್ ಕಡಿಮೆ ಮಾಡಿ</string>
+    <string name="reduce_animation_go_main">ಮುಖ್ಯಕ್ಕೆ ಹಿಂತಿರುಗಿ</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">ದಿನ ಮೋಡ್</string>
+    <string name="reduce_animation_night_section">ರಾತ್ರಿ ಮೋಡ್</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">ಹಡಗು ಸೆಟ್</string>
+    <string name="toggle_day_birds">ಪಕ್ಷಿಗಳು</string>
+    <string name="toggle_day_ocean_set">ಸಾಗರ ಸೆಟ್</string>
+    <string name="toggle_day_sun_set">ಸೂರ್ಯಾಸ್ತ</string>
+    <string name="toggle_day_butterfly">ಚಿಟ್ಟೆಗಳು</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">ಚಂದ್ರ</string>
+    <string name="toggle_night_stars_set">ನಕ್ಷತ್ರಗಳು</string>
+    <string name="toggle_night_meteor">ಉಲ್ಕೆಗಳು</string>
+    <string name="toggle_night_aurora">ಆರೋರಾ</string>
+    <string name="toggle_night_leaves">ಉದುರಿದ ಎಲೆಗಳು</string>
+    <string name="toggle_night_glow_bug">ಹೊಳೆಯುವ ಕೀಟಗಳು</string>
+    <string name="toggle_night_bottom_clock">ಕೆಳಗಿನ ಗಡಿಯಾರ</string>
+    <string name="toggle_night_mountain">ಪರ್ವತಗಳು</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">ಬ್ಯಾಟರಿ ಉಳಿಸಲು ಅನಿಮೇಶನ್‌ಗಳನ್ನು ಆನ್/ಆಫ್ ಮಾಡಿ.</string>
+    <string name="reduce_animation_apply">ಆಯ್ಕೆಯನ್ನು ಅನ್ವಯಿಸಿ</string>
+
+</resources>

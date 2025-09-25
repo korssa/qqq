@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Leidimai leidžia programėlei rodyti laikrodį jūsų pradiniame ekrane ir išlaikyti jį sklandžiai veikiančiu.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Perdanga</string>
+    <string name="permission_usage_stats">Naudojimo statistika</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Suteikta</string>
+    <string name="status_required">❌ Reikalinga</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Perdangos leidimas</string>
+    <string name="btn_overlay_granted">✅ Perdanga suteikta</string>
+
+    <string name="btn_request_usage">Naudojimo statistikos leidimas</string>
+    <string name="btn_usage_granted">✅ Statistika suteikta</string>
+
+    <string name="btn_start_overlay">🚀 Pradėti perdangą</string>
+    <string name="btn_stop_overlay">🛑 Sustabdyti perdangą</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Parinktis: Sumažinti ekrano animacijas</string>
+    
+    <string name="reduce_animation_title">Sumažinti animaciją</string>
+    <string name="reduce_animation_go_main">Grįžti į pagrindinį</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Dienos režimas</string>
+    <string name="reduce_animation_night_section">Nakties režimas</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Laivų rinkinys</string>
+    <string name="toggle_day_birds">Paukščiai</string>
+    <string name="toggle_day_ocean_set">Vandenyno rinkinys</string>
+    <string name="toggle_day_sun_set">Saulėlydis</string>
+    <string name="toggle_day_butterfly">Drugeliai</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Mėnulis</string>
+    <string name="toggle_night_stars_set">Žvaigždės</string>
+    <string name="toggle_night_meteor">Meteorai</string>
+    <string name="toggle_night_aurora">Aurora</string>
+    <string name="toggle_night_leaves">Krintantys lapai</string>
+    <string name="toggle_night_glow_bug">Šviečiantys vabzdžiai</string>
+    <string name="toggle_night_bottom_clock">Apatinis laikrodis</string>
+    <string name="toggle_night_mountain">Kalnai</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Įjunkite/išjunkite animacijas, kad sutaupytumėte bateriją.</string>
+    <string name="reduce_animation_apply">Taikyti pasirinkimą</string>
+
+</resources>

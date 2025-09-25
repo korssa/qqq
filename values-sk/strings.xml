@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Povolenia umožňujú aplikácii zobrazovať hodiny na vašej domovskej obrazovke a udržiavať ju plynule bežiacu.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Prekrytie</string>
+    <string name="permission_usage_stats">Štatistiky používania</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Udelené</string>
+    <string name="status_required">❌ Vyžadované</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Povolenie prekrytia</string>
+    <string name="btn_overlay_granted">✅ Prekrytie udelené</string>
+
+    <string name="btn_request_usage">Povolenie štatistík používania</string>
+    <string name="btn_usage_granted">✅ Štatistiky udelené</string>
+
+    <string name="btn_start_overlay">🚀 Spustiť prekrytie</string>
+    <string name="btn_stop_overlay">🛑 Zastaviť prekrytie</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Možnosť: Znížiť animácie obrazovky</string>
+    
+    <string name="reduce_animation_title">Znížiť animáciu</string>
+    <string name="reduce_animation_go_main">Späť na hlavné</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Deňový režim</string>
+    <string name="reduce_animation_night_section">Nočný režim</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Sada lodí</string>
+    <string name="toggle_day_birds">Vtáky</string>
+    <string name="toggle_day_ocean_set">Oceánska sada</string>
+    <string name="toggle_day_sun_set">Západ slnka</string>
+    <string name="toggle_day_butterfly">Motýle</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Mesiac</string>
+    <string name="toggle_night_stars_set">Hviezdy</string>
+    <string name="toggle_night_meteor">Meteory</string>
+    <string name="toggle_night_aurora">Aurora</string>
+    <string name="toggle_night_leaves">Padajúce listy</string>
+    <string name="toggle_night_glow_bug">Svetielkujúce chyby</string>
+    <string name="toggle_night_bottom_clock">Dolné hodiny</string>
+    <string name="toggle_night_mountain">Hory</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Zapnite/vypnite animácie na úsporu batérie.</string>
+    <string name="reduce_animation_apply">Použiť výber</string>
+
+</resources>

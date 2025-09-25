@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+الصلاحيات تسمح للتطبيق بعرض الساعة على شاشتك الرئيسية وتشغيلها بسلاسة.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">تراكب</string>
+    <string name="permission_usage_stats">إحصائيات الاستخدام</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ ممنوح</string>
+    <string name="status_required">❌ مطلوب</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">صلاحية التراكب</string>
+    <string name="btn_overlay_granted">✅ التراكب ممنوح</string>
+
+    <string name="btn_request_usage">صلاحية إحصائيات الاستخدام</string>
+    <string name="btn_usage_granted">✅ الإحصائيات ممنوحة</string>
+
+    <string name="btn_start_overlay">🚀 بدء التراكب</string>
+    <string name="btn_stop_overlay">🛑 إيقاف التراكب</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">خيار: تقليل الرسوم المتحركة للشاشة</string>
+    
+    <string name="reduce_animation_title">تقليل الرسوم المتحركة</string>
+    <string name="reduce_animation_go_main">العودة إلى الرئيسي</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">وضع النهار</string>
+    <string name="reduce_animation_night_section">وضع الليل</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">مجموعة السفن</string>
+    <string name="toggle_day_birds">الطيور</string>
+    <string name="toggle_day_ocean_set">مجموعة المحيط</string>
+    <string name="toggle_day_sun_set">غروب الشمس</string>
+    <string name="toggle_day_butterfly">الفراشات</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">القمر</string>
+    <string name="toggle_night_stars_set">مجموعة النجوم</string>
+    <string name="toggle_night_meteor">شهاب</string>
+    <string name="toggle_night_aurora">أورورا</string>
+    <string name="toggle_night_leaves">الأوراق المتساقطة</string>
+    <string name="toggle_night_glow_bug">الخنافس المتوهجة</string>
+    <string name="toggle_night_bottom_clock">الساعة السفلية</string>
+    <string name="toggle_night_mountain">الجبل</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">تشغيل/إيقاف الرسوم المتحركة لتوفير البطارية.</string>
+    <string name="reduce_animation_apply">تطبيق الاختيار</string>
+
+</resources>

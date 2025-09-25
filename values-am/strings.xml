@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+ፈቃዶች መተግበሪያው ሰዓቱን በቤት ስክሪን ላይ ለማሳየት እና በቀላሉ ለማስኬድ ያስችላል።
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">በላይ ማሳያ</string>
+    <string name="permission_usage_stats">የአጠቃቀም ስታትስቲክስ</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ ተሰጠ</string>
+    <string name="status_required">❌ ያስፈልጋል</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">በላይ ማሳያ ፈቃድ</string>
+    <string name="btn_overlay_granted">✅ በላይ ማሳያ ተሰጠ</string>
+
+    <string name="btn_request_usage">የአጠቃቀም ስታትስቲክስ ፈቃድ</string>
+    <string name="btn_usage_granted">✅ የአጠቃቀም ስታትስቲክስ ተሰጠ</string>
+
+    <string name="btn_start_overlay">🚀 በላይ ማሳያ ጀምር</string>
+    <string name="btn_stop_overlay">🛑 በላይ ማሳያ አቁም</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">አማራጭ፡ የስክሪን አኒሜሽኖችን ቀንስ</string>
+    
+    <string name="reduce_animation_title">አኒሜሽን ቀንስ</string>
+    <string name="reduce_animation_go_main">ወደ ዋና ተመለስ</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">የቀን ሞድ</string>
+    <string name="reduce_animation_night_section">የሌሊት ሞድ</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">የተራ ስብስብ</string>
+    <string name="toggle_day_birds">ያህል</string>
+    <string name="toggle_day_ocean_set">የባህር ስብስብ</string>
+    <string name="toggle_day_sun_set">የፀሐይ ስብስብ</string>
+    <string name="toggle_day_butterfly">ባባሮች</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">ገራኔ</string>
+    <string name="toggle_night_stars_set">ኮኮቦች</string>
+    <string name="toggle_night_meteor">መተከራዎች</string>
+    <string name="toggle_night_aurora">ኦሮራ</string>
+    <string name="toggle_night_leaves">የሚያወጡ ቅጠሎች</string>
+    <string name="toggle_night_glow_bug">የሚበራሩ ተራዎች</string>
+    <string name="toggle_night_bottom_clock">የታች ሰዓት</string>
+    <string name="toggle_night_mountain">ተራሮች</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">ባትሪን ለመቆጠብ አኒሜሽኖችን አብር/አጥፋ።</string>
+    <string name="reduce_animation_apply">ምርጫን ተግብር</string>
+
+</resources>

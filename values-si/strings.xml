@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+අවසරයන් යෙදුමට ඔබේ මුල් තිරයේ ඔරලෝසුව පෙන්වීමට සහ එය සුක්කානමයින් ක්‍රියාත්මක කිරීමට ඉඩ දෙයි.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">අභිබැඳීම</string>
+    <string name="permission_usage_stats">භාවිතා සංඛ්‍යාලේඛන</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ ලබා දී ඇත</string>
+    <string name="status_required">❌ අවශ්‍යයි</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">අභිබැඳීමේ අවසරය</string>
+    <string name="btn_overlay_granted">✅ අභිබැඳීම ලබා දී ඇත</string>
+
+    <string name="btn_request_usage">භාවිතා සංඛ්‍යාලේඛන අවසරය</string>
+    <string name="btn_usage_granted">✅ සංඛ්‍යාලේඛන ලබා දී ඇත</string>
+
+    <string name="btn_start_overlay">🚀 අභිබැඳීම ආරම්භ කරන්න</string>
+    <string name="btn_stop_overlay">🛑 අභිබැඳීම නවත්වන්න</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">විකල්පය: තිර සජීවනයන් අඩු කරන්න</string>
+    
+    <string name="reduce_animation_title">සජීවනය අඩු කරන්න</string>
+    <string name="reduce_animation_go_main">ප්‍රධානයට ආපසු යන්න</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">දිවා මෝඩ්</string>
+    <string name="reduce_animation_night_section">රාත්‍රී මෝඩ්</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">නැව් කට්ටලය</string>
+    <string name="toggle_day_birds">පක්ෂි</string>
+    <string name="toggle_day_ocean_set">මහාසාගර කට්ටලය</string>
+    <string name="toggle_day_sun_set">සූර්‍ය්‍යාස්තය</string>
+    <string name="toggle_day_butterfly">පත්රලේඛ</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">සඳ</string>
+    <string name="toggle_night_stars_set">තරු</string>
+    <string name="toggle_night_meteor">උල්කා</string>
+    <string name="toggle_night_aurora">ඔරෝරා</string>
+    <string name="toggle_night_leaves">වැටෙන පත්‍ර</string>
+    <string name="toggle_night_glow_bug">දීප්තිමත් කෘමි</string>
+    <string name="toggle_night_bottom_clock">පහළ ඔරලෝසුව</string>
+    <string name="toggle_night_mountain">කඳෙන්</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">බැටරිය සුරක්ෂිත කිරීම සඳහා සජීවනයන් ආරම්භ/නවත්වන්න.</string>
+    <string name="reduce_animation_apply">තේරීම යෙදීම</string>
+
+</resources>

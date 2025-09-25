@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+ნებართვები საშუალებას აძლევს აპლიკაციას აჩვენოს საათი თქვენს მთავარ ეკრანზე და შეინარჩუნოს იგი გლუვად მომუშავე.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">გადაფარვა</string>
+    <string name="permission_usage_stats">გამოყენების სტატისტიკა</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ მინიჭებულია</string>
+    <string name="status_required">❌ საჭიროა</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">გადაფარვის ნებართვა</string>
+    <string name="btn_overlay_granted">✅ გადაფარვა მინიჭებულია</string>
+
+    <string name="btn_request_usage">გამოყენების სტატისტიკის ნებართვა</string>
+    <string name="btn_usage_granted">✅ სტატისტიკა მინიჭებულია</string>
+
+    <string name="btn_start_overlay">🚀 დაიწყე გადაფარვა</string>
+    <string name="btn_stop_overlay">🛑 შეაჩერე გადაფარვა</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">ვარიანტი: შეამცირე ეკრანის ანიმაციები</string>
+    
+    <string name="reduce_animation_title">შეამცირე ანიმაცია</string>
+    <string name="reduce_animation_go_main">დაბრუნდი მთავარზე</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">დღის რეჟიმი</string>
+    <string name="reduce_animation_night_section">ღამის რეჟიმი</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">გემების ნაკრები</string>
+    <string name="toggle_day_birds">ჩიტები</string>
+    <string name="toggle_day_ocean_set">ოკეანის ნაკრები</string>
+    <string name="toggle_day_sun_set">მზის ჩასვლა</string>
+    <string name="toggle_day_butterfly">ბაბოჩკები</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">მთვარე</string>
+    <string name="toggle_night_stars_set">ვარსკვლავები</string>
+    <string name="toggle_night_meteor">მეტეორები</string>
+    <string name="toggle_night_aurora">ავრორა</string>
+    <string name="toggle_night_leaves">მოდრეკილი ფოთლები</string>
+    <string name="toggle_night_glow_bug">მბრწყინავი მწერები</string>
+    <string name="toggle_night_bottom_clock">ქვედა საათი</string>
+    <string name="toggle_night_mountain">მთები</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">ჩართეთ/გამორთეთ ანიმაციები ბატარეის დაზოგვისთვის.</string>
+    <string name="reduce_animation_apply">გამოიყენე არჩევანი</string>
+
+</resources>

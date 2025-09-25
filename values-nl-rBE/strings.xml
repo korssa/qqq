@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Machtigingen staan de app toe om de klok op je startscherm weer te geven en deze soepel te laten draaien.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Overlay</string>
+    <string name="permission_usage_stats">Gebruiksstatistieken</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Verleend</string>
+    <string name="status_required">❌ Vereist</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Overlay-machtiging</string>
+    <string name="btn_overlay_granted">✅ Overlay verleend</string>
+
+    <string name="btn_request_usage">Gebruiksstatistieken-machtiging</string>
+    <string name="btn_usage_granted">✅ Statistieken verleend</string>
+
+    <string name="btn_start_overlay">🚀 Start overlay</string>
+    <string name="btn_stop_overlay">🛑 Stop overlay</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Optie: Verminder schermanimaties</string>
+    
+    <string name="reduce_animation_title">Animatie verminderen</string>
+    <string name="reduce_animation_go_main">Terug naar hoofd</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Dagmodus</string>
+    <string name="reduce_animation_night_section">Nachtmodus</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Scheepsset</string>
+    <string name="toggle_day_birds">Vogels</string>
+    <string name="toggle_day_ocean_set">Oceaanset</string>
+    <string name="toggle_day_sun_set">Zonsondergang</string>
+    <string name="toggle_day_butterfly">Vlinders</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Maan</string>
+    <string name="toggle_night_stars_set">Sterrenset</string>
+    <string name="toggle_night_meteor">Meteoor</string>
+    <string name="toggle_night_aurora">Aurora</string>
+    <string name="toggle_night_leaves">Vallende bladeren</string>
+    <string name="toggle_night_glow_bug">Glimwormen</string>
+    <string name="toggle_night_bottom_clock">Onderklok</string>
+    <string name="toggle_night_mountain">Berg</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Animaties in-/uitschakelen om batterij te besparen.</string>
+    <string name="reduce_animation_apply">Selectie toepassen</string>
+
+</resources>

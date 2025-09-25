@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Dozvole omogućavaju aplikaciji da prikazuje sat na početnom ekranu i održava ga glatko funkcionirajućim.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Prekrivanje</string>
+    <string name="permission_usage_stats">Statistika korištenja</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Odobreno</string>
+    <string name="status_required">❌ Potrebno</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Dozvola za prekrivanje</string>
+    <string name="btn_overlay_granted">✅ Prekrivanje odobreno</string>
+
+    <string name="btn_request_usage">Dozvola za statistiku korištenja</string>
+    <string name="btn_usage_granted">✅ Statistika odobrena</string>
+
+    <string name="btn_start_overlay">🚀 Pokreni prekrivanje</string>
+    <string name="btn_stop_overlay">🛑 Zaustavi prekrivanje</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Opcija: Smanji animacije ekrana</string>
+    
+    <string name="reduce_animation_title">Smanji animaciju</string>
+    <string name="reduce_animation_go_main">Povratak na glavni</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Dnevni režim</string>
+    <string name="reduce_animation_night_section">Noćni režim</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Set brodova</string>
+    <string name="toggle_day_birds">Ptice</string>
+    <string name="toggle_day_ocean_set">Okeanski set</string>
+    <string name="toggle_day_sun_set">Zalazak sunca</string>
+    <string name="toggle_day_butterfly">Leptiri</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Mjesec</string>
+    <string name="toggle_night_stars_set">Zvijezde</string>
+    <string name="toggle_night_meteor">Meteori</string>
+    <string name="toggle_night_aurora">Aurora</string>
+    <string name="toggle_night_leaves">Padajući listovi</string>
+    <string name="toggle_night_glow_bug">Svjetleće bube</string>
+    <string name="toggle_night_bottom_clock">Donji sat</string>
+    <string name="toggle_night_mountain">Planine</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Uključite/isključite animacije da uštedite bateriju.</string>
+    <string name="reduce_animation_apply">Primijeni izbor</string>
+
+</resources>

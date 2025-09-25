@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+הרשאות מאפשרות לאפליקציה להציג את השעון על מסך הבית שלך ולשמור עליו פועל בצורה חלקה.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">שכבת על</string>
+    <string name="permission_usage_stats">סטטיסטיקות שימוש</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ הוענק</string>
+    <string name="status_required">❌ נדרש</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">הרשאת שכבת על</string>
+    <string name="btn_overlay_granted">✅ שכבת על הוענקה</string>
+
+    <string name="btn_request_usage">הרשאת סטטיסטיקות שימוש</string>
+    <string name="btn_usage_granted">✅ סטטיסטיקות הוענקו</string>
+
+    <string name="btn_start_overlay">🚀 התחל שכבת על</string>
+    <string name="btn_stop_overlay">🛑 עצור שכבת על</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">אפשרות: הפחת אנימציות מסך</string>
+    
+    <string name="reduce_animation_title">הפחת אנימציה</string>
+    <string name="reduce_animation_go_main">חזור לעיקרי</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">מצב יום</string>
+    <string name="reduce_animation_night_section">מצב לילה</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">סט ספינות</string>
+    <string name="toggle_day_birds">ציפורים</string>
+    <string name="toggle_day_ocean_set">סט אוקיינוס</string>
+    <string name="toggle_day_sun_set">שקיעה</string>
+    <string name="toggle_day_butterfly">פרפרים</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">ירח</string>
+    <string name="toggle_night_stars_set">כוכבים</string>
+    <string name="toggle_night_meteor">מטאורים</string>
+    <string name="toggle_night_aurora">אורורה</string>
+    <string name="toggle_night_leaves">עלים נופלים</string>
+    <string name="toggle_night_glow_bug">חרקים זוהרים</string>
+    <string name="toggle_night_bottom_clock">שעון תחתון</string>
+    <string name="toggle_night_mountain">הרים</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">הפעל/כבה אנימציות כדי לחסוך בסוללה.</string>
+    <string name="reduce_animation_apply">החל בחירה</string>
+
+</resources>

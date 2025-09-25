@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Зөвшөөрлүүд нь апп-д таны эхлэх дэлгэц дээр цаг харуулах боломж өгөх ба үүнийг зөөлөн ажиллуулах боломжтой.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Давхар</string>
+    <string name="permission_usage_stats">Ашиглалтын статистик</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Зөвшөөрөгдсөн</string>
+    <string name="status_required">❌ Шаардлагатай</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Давхар зөвшөөрөл</string>
+    <string name="btn_overlay_granted">✅ Давхар зөвшөөрөгдсөн</string>
+
+    <string name="btn_request_usage">Ашиглалтын статистикийн зөвшөөрөл</string>
+    <string name="btn_usage_granted">✅ Статистик зөвшөөрөгдсөн</string>
+
+    <string name="btn_start_overlay">🚀 Давхар эхлүүлэх</string>
+    <string name="btn_stop_overlay">🛑 Давхар зогсоох</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Сонголт: Дэлгэцийн анимацийг багасгах</string>
+    
+    <string name="reduce_animation_title">Анимацийг багасгах</string>
+    <string name="reduce_animation_go_main">Үндсэн рүү буцах</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Өдрийн горим</string>
+    <string name="reduce_animation_night_section">Шөнийн горим</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Усан онгоцны багц</string>
+    <string name="toggle_day_birds">Шувууд</string>
+    <string name="toggle_day_ocean_set">Далайн багц</string>
+    <string name="toggle_day_sun_set">Нар жаргах</string>
+    <string name="toggle_day_butterfly">Эрвээхэй</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Сар</string>
+    <string name="toggle_night_stars_set">Одууд</string>
+    <string name="toggle_night_meteor">Метеор</string>
+    <string name="toggle_night_aurora">Аврора</string>
+    <string name="toggle_night_leaves">Унаж буй навч</string>
+    <string name="toggle_night_glow_bug">Гэрэлтдэг шавж</string>
+    <string name="toggle_night_bottom_clock">Доод цаг</string>
+    <string name="toggle_night_mountain">Уулс</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Батарей хэмнэхийн тулд анимацийг асаах/унтраах.</string>
+    <string name="reduce_animation_apply">Сонголтыг хэрэгжүүлэх</string>
+
+</resources>

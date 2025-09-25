@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+权限允许应用在您的主屏幕上显示时钟，并使其流畅运行。
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">覆盖层</string>
+    <string name="permission_usage_stats">使用统计</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ 已授予</string>
+    <string name="status_required">❌ 需要</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">覆盖层权限</string>
+    <string name="btn_overlay_granted">✅ 覆盖层已授予</string>
+
+    <string name="btn_request_usage">使用统计权限</string>
+    <string name="btn_usage_granted">✅ 统计已授予</string>
+
+    <string name="btn_start_overlay">🚀 开始覆盖层</string>
+    <string name="btn_stop_overlay">🛑 停止覆盖层</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">选项：减少屏幕动画</string>
+    
+    <string name="reduce_animation_title">减少动画</string>
+    <string name="reduce_animation_go_main">返回主界面</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">白天模式</string>
+    <string name="reduce_animation_night_section">夜晚模式</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">船只套装</string>
+    <string name="toggle_day_birds">鸟类</string>
+    <string name="toggle_day_ocean_set">海洋套装</string>
+    <string name="toggle_day_sun_set">日落</string>
+    <string name="toggle_day_butterfly">蝴蝶</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">月亮</string>
+    <string name="toggle_night_stars_set">星星套装</string>
+    <string name="toggle_night_meteor">流星</string>
+    <string name="toggle_night_aurora">极光</string>
+    <string name="toggle_night_leaves">落叶</string>
+    <string name="toggle_night_glow_bug">萤火虫</string>
+    <string name="toggle_night_bottom_clock">底部时钟</string>
+    <string name="toggle_night_mountain">山脉</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">开启/关闭动画以节省电池。</string>
+    <string name="reduce_animation_apply">应用选择</string>
+
+</resources>

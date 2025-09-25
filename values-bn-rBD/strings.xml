@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+অনুমতিগুলি অ্যাপটিকে আপনার হোম স্ক্রিনে ঘড়ি দেখাতে এবং এটি মসৃণভাবে চালাতে দেয়।
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">ওভারলে</string>
+    <string name="permission_usage_stats">ব্যবহারের পরিসংখ্যান</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ দেওয়া হয়েছে</string>
+    <string name="status_required">❌ প্রয়োজনীয়</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">ওভারলে অনুমতি</string>
+    <string name="btn_overlay_granted">✅ ওভারলে দেওয়া হয়েছে</string>
+
+    <string name="btn_request_usage">ব্যবহারের পরিসংখ্যান অনুমতি</string>
+    <string name="btn_usage_granted">✅ পরিসংখ্যান দেওয়া হয়েছে</string>
+
+    <string name="btn_start_overlay">🚀 ওভারলে শুরু করুন</string>
+    <string name="btn_stop_overlay">🛑 ওভারলে বন্ধ করুন</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">বিকল্প: স্ক্রিন অ্যানিমেশন কমান</string>
+    
+    <string name="reduce_animation_title">অ্যানিমেশন কমান</string>
+    <string name="reduce_animation_go_main">প্রধানে ফিরে যান</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">দিনের মোড</string>
+    <string name="reduce_animation_night_section">রাতের মোড</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">জাহাজের সেট</string>
+    <string name="toggle_day_birds">পাখি</string>
+    <string name="toggle_day_ocean_set">মহাসাগরের সেট</string>
+    <string name="toggle_day_sun_set">সূর্যাস্ত</string>
+    <string name="toggle_day_butterfly">প্রজাপতি</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">চাঁদ</string>
+    <string name="toggle_night_stars_set">তারার সেট</string>
+    <string name="toggle_night_meteor">উল্কা</string>
+    <string name="toggle_night_aurora">অরোরা</string>
+    <string name="toggle_night_leaves">ঝরে পড়া পাতা</string>
+    <string name="toggle_night_glow_bug">জ্বলজ্বলে পোকা</string>
+    <string name="toggle_night_bottom_clock">নীচের ঘড়ি</string>
+    <string name="toggle_night_mountain">পাহাড়</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">ব্যাটারি সাশ্রয় করতে অ্যানিমেশন চালু/বন্ধ করুন।</string>
+    <string name="reduce_animation_apply">নির্বাচন প্রয়োগ করুন</string>
+
+</resources>

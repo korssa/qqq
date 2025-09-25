@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+ခွင့်ပြုချက်များသည် အက်ပ်ကို သင့်ပင်မစာမျက်နှာတွင် နာရီပြရန် နှင့် ချောမွေ့စွာ လည်ပတ်နေစေရန် ခွင့်ပြုသည်။
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">ထပ်ပေါင်းပြသခြင်း</string>
+    <string name="permission_usage_stats">အသုံးပြုမှု စာရင်းအင်းများ</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ ခွင့်ပြုထားသည်</string>
+    <string name="status_required">❌ လိုအပ်သည်</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">ထပ်ပေါင်းပြသခြင်း ခွင့်ပြုချက်</string>
+    <string name="btn_overlay_granted">✅ ထပ်ပေါင်းပြသခြင်း ခွင့်ပြုထားသည်</string>
+
+    <string name="btn_request_usage">အသုံးပြုမှု စာရင်းအင်းများ ခွင့်ပြုချက်</string>
+    <string name="btn_usage_granted">✅ စာရင်းအင်းများ ခွင့်ပြုထားသည်</string>
+
+    <string name="btn_start_overlay">🚀 ထပ်ပေါင်းပြသခြင်း စတင်ရန်</string>
+    <string name="btn_stop_overlay">🛑 ထပ်ပေါင်းပြသခြင်း ရပ်ရန်</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">ရွေးချယ်မှု: စခရင် အန်နီမေးရှင်းများကို လျှော့ချရန်</string>
+    
+    <string name="reduce_animation_title">အန်နီမေးရှင်း လျှော့ချရန်</string>
+    <string name="reduce_animation_go_main">ပင်မသို့ ပြန်သွားရန်</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">နေ့စဉ် မုဒ်</string>
+    <string name="reduce_animation_night_section">ညစဉ် မုဒ်</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">သင်္ဘောအစု</string>
+    <string name="toggle_day_birds">ငှက်များ</string>
+    <string name="toggle_day_ocean_set">သမုဒ္ဒရာအစု</string>
+    <string name="toggle_day_sun_set">နေဝင်ခြင်း</string>
+    <string name="toggle_day_butterfly">လိပ်ပြာ</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">လ</string>
+    <string name="toggle_night_stars_set">ကြယ်များ</string>
+    <string name="toggle_night_meteor">ဒလဟော</string>
+    <string name="toggle_night_aurora">အော်ရိုရာ</string>
+    <string name="toggle_night_leaves">ပြောင်းလဲသော အရွက်များ</string>
+    <string name="toggle_night_glow_bug">လင်းသော ပိုးကောင်များ</string>
+    <string name="toggle_night_bottom_clock">အောက်ခြေ နာရီ</string>
+    <string name="toggle_night_mountain">တောင်များ</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">ဘက်ထရီ သိမ်းဆည်းရန် အန်နီမေးရှင်းများကို ဖွင့်/ပိတ်ရန်။</string>
+    <string name="reduce_animation_apply">ရွေးချယ်မှုကို အသုံးပြုရန်</string>
+
+</resources>

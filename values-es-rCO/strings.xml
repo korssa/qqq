@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Los permisos permiten que la aplicación muestre el reloj en tu pantalla de inicio y lo ejecute sin problemas.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Superposición</string>
+    <string name="permission_usage_stats">Estadísticas de uso</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Concedido</string>
+    <string name="status_required">❌ Requerido</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Permiso de superposición</string>
+    <string name="btn_overlay_granted">✅ Superposición concedida</string>
+
+    <string name="btn_request_usage">Permiso de estadísticas de uso</string>
+    <string name="btn_usage_granted">✅ Estadísticas concedidas</string>
+
+    <string name="btn_start_overlay">🚀 Iniciar superposición</string>
+    <string name="btn_stop_overlay">🛑 Detener superposición</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Opción: Reducir animaciones de pantalla</string>
+    
+    <string name="reduce_animation_title">Reducir animación</string>
+    <string name="reduce_animation_go_main">Volver al principal</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Modo día</string>
+    <string name="reduce_animation_night_section">Modo noche</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Conjunto de barcos</string>
+    <string name="toggle_day_birds">Pájaros</string>
+    <string name="toggle_day_ocean_set">Conjunto oceánico</string>
+    <string name="toggle_day_sun_set">Puesta de sol</string>
+    <string name="toggle_day_butterfly">Mariposas</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Luna</string>
+    <string name="toggle_night_stars_set">Conjunto de estrellas</string>
+    <string name="toggle_night_meteor">Meteorito</string>
+    <string name="toggle_night_aurora">Aurora</string>
+    <string name="toggle_night_leaves">Hojas cayendo</string>
+    <string name="toggle_night_glow_bug">Luciérnagas</string>
+    <string name="toggle_night_bottom_clock">Reloj inferior</string>
+    <string name="toggle_night_mountain">Montaña</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Activar/desactivar animaciones para ahorrar batería.</string>
+    <string name="reduce_animation_apply">Aplicar selección</string>
+
+</resources>

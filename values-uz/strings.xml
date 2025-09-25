@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Ruxsatlar ilova sizning uy ekraningizda soatni ko'rsatish va uni silliq ishga tushirish uchun ruxsat beradi.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Qoplama</string>
+    <string name="permission_usage_stats">Foydalanish statistikasi</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Berilgan</string>
+    <string name="status_required">❌ Kerakli</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Qoplama ruxsati</string>
+    <string name="btn_overlay_granted">✅ Qoplama berilgan</string>
+
+    <string name="btn_request_usage">Foydalanish statistikasi ruxsati</string>
+    <string name="btn_usage_granted">✅ Statistika berilgan</string>
+
+    <string name="btn_start_overlay">🚀 Qoplama boshlash</string>
+    <string name="btn_stop_overlay">🛑 Qoplama to'xtatish</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Variant: Ekran animatsiyalarini kamaytirish</string>
+    
+    <string name="reduce_animation_title">Animatsiyani kamaytirish</string>
+    <string name="reduce_animation_go_main">Asosiyga qaytish</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Kun rejimi</string>
+    <string name="reduce_animation_night_section">Tun rejimi</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Kemalar to'plami</string>
+    <string name="toggle_day_birds">Qushlar</string>
+    <string name="toggle_day_ocean_set">Okean to'plami</string>
+    <string name="toggle_day_sun_set">Quyosh botishi</string>
+    <string name="toggle_day_butterfly">Kepalaklar</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Oy</string>
+    <string name="toggle_night_stars_set">Yulduzlar</string>
+    <string name="toggle_night_meteor">Meteor</string>
+    <string name="toggle_night_aurora">Aurora</string>
+    <string name="toggle_night_leaves">Tushayotgan barglar</string>
+    <string name="toggle_night_glow_bug">Yorug'lik qurtlari</string>
+    <string name="toggle_night_bottom_clock">Pastki soat</string>
+    <string name="toggle_night_mountain">Tog'</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Batareyani tejash uchun animatsiyalarni yoqish/o'chirish.</string>
+    <string name="reduce_animation_apply">Tanlovni qo'llash</string>
+
+</resources>

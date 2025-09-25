@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+مجوزها به برنامه اجازه می‌دهند ساعت را روی صفحه اصلی نمایش دهد و آن را به طور روان اجرا نگه دارد.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">پوشش</string>
+    <string name="permission_usage_stats">آمار استفاده</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ اعطا شد</string>
+    <string name="status_required">❌ مورد نیاز</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">مجوز پوشش</string>
+    <string name="btn_overlay_granted">✅ پوشش اعطا شد</string>
+
+    <string name="btn_request_usage">مجوز آمار استفاده</string>
+    <string name="btn_usage_granted">✅ آمار اعطا شد</string>
+
+    <string name="btn_start_overlay">🚀 شروع پوشش</string>
+    <string name="btn_stop_overlay">🛑 توقف پوشش</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">گزینه: کاهش انیمیشن‌های صفحه</string>
+    
+    <string name="reduce_animation_title">کاهش انیمیشن</string>
+    <string name="reduce_animation_go_main">بازگشت به اصلی</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">حالت روز</string>
+    <string name="reduce_animation_night_section">حالت شب</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">مجموعه کشتی</string>
+    <string name="toggle_day_birds">پرندگان</string>
+    <string name="toggle_day_ocean_set">مجموعه اقیانوس</string>
+    <string name="toggle_day_sun_set">غروب آفتاب</string>
+    <string name="toggle_day_butterfly">پروانه‌ها</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">ماه</string>
+    <string name="toggle_night_stars_set">ستاره‌ها</string>
+    <string name="toggle_night_meteor">شهاب‌سنگ‌ها</string>
+    <string name="toggle_night_aurora">شفق قطبی</string>
+    <string name="toggle_night_leaves">برگ‌های ریزان</string>
+    <string name="toggle_night_glow_bug">حشرات درخشان</string>
+    <string name="toggle_night_bottom_clock">ساعت پایین</string>
+    <string name="toggle_night_mountain">کوه‌ها</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">انیمیشن‌ها را روشن/خاموش کنید تا باتری ذخیره شود.</string>
+    <string name="reduce_animation_apply">اعمال انتخاب</string>
+
+</resources>

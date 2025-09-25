@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Berechtigungen erlauben der App, die Uhr auf Ihrem Startbildschirm anzuzeigen und sie reibungslos laufen zu lassen.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Overlay</string>
+    <string name="permission_usage_stats">Nutzungsstatistiken</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Gewährt</string>
+    <string name="status_required">❌ Erforderlich</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Overlay-Berechtigung</string>
+    <string name="btn_overlay_granted">✅ Overlay gewährt</string>
+
+    <string name="btn_request_usage">Nutzungsstatistiken-Berechtigung</string>
+    <string name="btn_usage_granted">✅ Statistiken gewährt</string>
+
+    <string name="btn_start_overlay">🚀 Overlay starten</string>
+    <string name="btn_stop_overlay">🛑 Overlay stoppen</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Option: Bildschirm-Animationen reduzieren</string>
+    
+    <string name="reduce_animation_title">Animationen reduzieren</string>
+    <string name="reduce_animation_go_main">Zurück zur Hauptseite</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Tagesmodus</string>
+    <string name="reduce_animation_night_section">Nachtmodus</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Schiffsset</string>
+    <string name="toggle_day_birds">Vögel</string>
+    <string name="toggle_day_ocean_set">Ozeanset</string>
+    <string name="toggle_day_sun_set">Sonnenuntergang</string>
+    <string name="toggle_day_butterfly">Schmetterlinge</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Mond</string>
+    <string name="toggle_night_stars_set">Sternenset</string>
+    <string name="toggle_night_meteor">Meteor</string>
+    <string name="toggle_night_aurora">Aurora</string>
+    <string name="toggle_night_leaves">Fallende Blätter</string>
+    <string name="toggle_night_glow_bug">Leuchtkäfer</string>
+    <string name="toggle_night_bottom_clock">Untere Uhr</string>
+    <string name="toggle_night_mountain">Berg</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Animationen ein-/ausschalten, um Batterie zu sparen.</string>
+    <string name="reduce_animation_apply">Auswahl anwenden</string>
+
+</resources>

@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Ang mga pahintulot ay nagbibigay-daan sa app na ipakita ang orasan sa iyong home screen at panatilihing maayos ang pagtakbo nito.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Overlay</string>
+    <string name="permission_usage_stats">Estadistika ng Paggamit</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Ipinagkaloob</string>
+    <string name="status_required">❌ Kinakailangan</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Pahintulot sa Overlay</string>
+    <string name="btn_overlay_granted">✅ Overlay Ipinagkaloob</string>
+
+    <string name="btn_request_usage">Pahintulot sa Estadistika ng Paggamit</string>
+    <string name="btn_usage_granted">✅ Estadistika Ipinagkaloob</string>
+
+    <string name="btn_start_overlay">🚀 Simulan ang Overlay</string>
+    <string name="btn_stop_overlay">🛑 Itigil ang Overlay</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Opsyon: Bawasan ang mga animasyon ng screen</string>
+    
+    <string name="reduce_animation_title">Bawasan ang Animasyon</string>
+    <string name="reduce_animation_go_main">Bumalik sa Pangunahin</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Araw na Mode</string>
+    <string name="reduce_animation_night_section">Gabi na Mode</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Set ng Barko</string>
+    <string name="toggle_day_birds">Mga Ibon</string>
+    <string name="toggle_day_ocean_set">Set ng Karagatan</string>
+    <string name="toggle_day_sun_set">Paglubog ng Araw</string>
+    <string name="toggle_day_butterfly">Mga Paruparo</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Buwan</string>
+    <string name="toggle_night_stars_set">Mga Bituin</string>
+    <string name="toggle_night_meteor">Mga Meteor</string>
+    <string name="toggle_night_aurora">Aurora</string>
+    <string name="toggle_night_leaves">Mga Dahong Nahuhulog</string>
+    <string name="toggle_night_glow_bug">Mga Kumikinang na Insekto</string>
+    <string name="toggle_night_bottom_clock">Ibaba na Orasan</string>
+    <string name="toggle_night_mountain">Mga Bundok</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">I-on/I-off ang mga animasyon upang makatipid ng baterya.</string>
+    <string name="reduce_animation_apply">Ilapat ang pagpili</string>
+
+</resources>

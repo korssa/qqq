@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+ການອະນຸຍາດອະນຸຍາດໃຫ້ແອັບພລິເຄຊັນແສດງໂມງຢູ່ໜ້າຈໍຫຼັກຂອງທ່ານ ແລະ ຮັກສາໃຫ້ມັນເຮັດວຽກຢ່າງລຽບລຽວ.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">ການປົກຄຸມ</string>
+    <string name="permission_usage_stats">ສະຖິຕິການນໍາໃຊ້</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ ອະນຸຍາດແລ້ວ</string>
+    <string name="status_required">❌ ຕ້ອງການ</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">ການອະນຸຍາດການປົກຄຸມ</string>
+    <string name="btn_overlay_granted">✅ ການປົກຄຸມອະນຸຍາດແລ້ວ</string>
+
+    <string name="btn_request_usage">ການອະນຸຍາດສະຖິຕິການນໍາໃຊ້</string>
+    <string name="btn_usage_granted">✅ ສະຖິຕິອະນຸຍາດແລ້ວ</string>
+
+    <string name="btn_start_overlay">🚀 ເລີ່ມການປົກຄຸມ</string>
+    <string name="btn_stop_overlay">🛑 ຢຸດການປົກຄຸມ</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">ຕົວເລືອກ: ຫຼຸດການຕົວເຄື່ອນຂອງໜ້າຈໍ</string>
+    
+    <string name="reduce_animation_title">ຫຼຸດການຕົວເຄື່ອນ</string>
+    <string name="reduce_animation_go_main">ກັບໄປຫຼັກ</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">ໂຫມດກາງວັນ</string>
+    <string name="reduce_animation_night_section">ໂຫມດກາງຄືນ</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">ຊຸດເຮືອ</string>
+    <string name="toggle_day_birds">ນົກ</string>
+    <string name="toggle_day_ocean_set">ຊຸດມະຫາສະຫມຸດ</string>
+    <string name="toggle_day_sun_set">ການຕົກຂອງຕາເວັນ</string>
+    <string name="toggle_day_butterfly">ແມງກະເບື້ອງ</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">ເດືອນ</string>
+    <string name="toggle_night_stars_set">ດາວ</string>
+    <string name="toggle_night_meteor">ດາວຕົກ</string>
+    <string name="toggle_night_aurora">ອໍໂຣຣາ</string>
+    <string name="toggle_night_leaves">ໃບຕົກ</string>
+    <string name="toggle_night_glow_bug">ແມງສະຫວ່າງ</string>
+    <string name="toggle_night_bottom_clock">ໂມງລຸ່ມ</string>
+    <string name="toggle_night_mountain">ພູເຂົາ</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">ເປີດ/ປິດການຕົວເຄື່ອນເພື່ອປະຢັດແບັດເຕີຣີ.</string>
+    <string name="reduce_animation_apply">ນຳໃຊ້ການເລືອກ</string>
+
+</resources>

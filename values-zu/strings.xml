@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Izimvume zivumela uhlelo lokusebenza ukubonisa iwashi ekhasini lakho lasekhaya futhi lusebenze kahle.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Isembozo</string>
+    <string name="permission_usage_stats">Izibalo zokusetshenziswa</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Inikeziwe</string>
+    <string name="status_required">❌ Iyadingeka</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Imvume yesembozo</string>
+    <string name="btn_overlay_granted">✅ Isembozo sinikeziwe</string>
+
+    <string name="btn_request_usage">Imvume yezibalo zokusetshenziswa</string>
+    <string name="btn_usage_granted">✅ Izibalo zinikeziwe</string>
+
+    <string name="btn_start_overlay">🚀 Qala isembozo</string>
+    <string name="btn_stop_overlay">🛑 Misa isembozo</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Inketho: Nciphisa izithombe ezinyakazayo zesikrini</string>
+    
+    <string name="reduce_animation_title">Nciphisa izithombe ezinyakazayo</string>
+    <string name="reduce_animation_go_main">Buyela ekuyinhloko</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Imodi yemini</string>
+    <string name="reduce_animation_night_section">Imodi yasebusuku</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Iqoqo lemikhumbi</string>
+    <string name="toggle_day_birds">Izinyoni</string>
+    <string name="toggle_day_ocean_set">Iqoqo lolwandle</string>
+    <string name="toggle_day_sun_set">Ukushona kwelanga</string>
+    <string name="toggle_day_butterfly">Izimvemvane</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Inyanga</string>
+    <string name="toggle_night_stars_set">Iqoqo lezinkanyezi</string>
+    <string name="toggle_night_meteor">Imeteor</string>
+    <string name="toggle_night_aurora">IAurora</string>
+    <string name="toggle_night_leaves">Amaqabunga awa</string>
+    <string name="toggle_night_glow_bug">Izimbungulu ezikhanyayo</string>
+    <string name="toggle_night_bottom_clock">Iwashi elingezansi</string>
+    <string name="toggle_night_mountain">Intaba</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Vula/cisha izithombe ezinyakazayo ukuze ulondoloze ibhethri.</string>
+    <string name="reduce_animation_apply">Sebenzisa ukukhetha</string>
+
+</resources>

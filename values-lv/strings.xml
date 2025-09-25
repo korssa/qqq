@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Atļaujas ļauj lietotnei rādīt pulksteni jūsu sākuma ekrānā un uzturēt to darbojošos vienmērīgi.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Pārklājums</string>
+    <string name="permission_usage_stats">Lietojuma statistika</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Piešķirts</string>
+    <string name="status_required">❌ Nepieciešams</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Pārklājuma atļauja</string>
+    <string name="btn_overlay_granted">✅ Pārklājums piešķirts</string>
+
+    <string name="btn_request_usage">Lietojuma statistikas atļauja</string>
+    <string name="btn_usage_granted">✅ Statistika piešķirta</string>
+
+    <string name="btn_start_overlay">🚀 Sākt pārklājumu</string>
+    <string name="btn_stop_overlay">🛑 Apturēt pārklājumu</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Opcija: Samazināt ekrāna animācijas</string>
+    
+    <string name="reduce_animation_title">Samazināt animāciju</string>
+    <string name="reduce_animation_go_main">Atgriezties galvenajā</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Dienas režīms</string>
+    <string name="reduce_animation_night_section">Nakts režīms</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Kuģu komplekts</string>
+    <string name="toggle_day_birds">Putni</string>
+    <string name="toggle_day_ocean_set">Okeāna komplekts</string>
+    <string name="toggle_day_sun_set">Saulriets</string>
+    <string name="toggle_day_butterfly">Tauriņi</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Mēness</string>
+    <string name="toggle_night_stars_set">Zvaigznes</string>
+    <string name="toggle_night_meteor">Meteorīti</string>
+    <string name="toggle_night_aurora">Aurora</string>
+    <string name="toggle_night_leaves">Krītošās lapas</string>
+    <string name="toggle_night_glow_bug">Gaišojošie kukaiņi</string>
+    <string name="toggle_night_bottom_clock">Apakšējais pulkstenis</string>
+    <string name="toggle_night_mountain">Kalni</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Ieslēdziet/izslēdziet animācijas, lai ietaupītu bateriju.</string>
+    <string name="reduce_animation_apply">Lietot izvēli</string>
+
+</resources>

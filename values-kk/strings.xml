@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Рұқсаттар қолданбаға басты экранда сағатты көрсетуге және оны тегіс жұмыс істетуге мүмкіндік береді.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Қабаттастыру</string>
+    <string name="permission_usage_stats">Пайдалану статистикасы</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Беріледі</string>
+    <string name="status_required">❌ Қажет</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Қабаттастыру рұқсаты</string>
+    <string name="btn_overlay_granted">✅ Қабаттастыру берілді</string>
+
+    <string name="btn_request_usage">Пайдалану статистикасы рұқсаты</string>
+    <string name="btn_usage_granted">✅ Статистика берілді</string>
+
+    <string name="btn_start_overlay">🚀 Қабаттастыруды бастау</string>
+    <string name="btn_stop_overlay">🛑 Қабаттастыруды тоқтату</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Опция: Экран анимацияларын азайту</string>
+    
+    <string name="reduce_animation_title">Анимацияны азайту</string>
+    <string name="reduce_animation_go_main">Негізгіге қайту</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Күндізгі режим</string>
+    <string name="reduce_animation_night_section">Түнгі режим</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Кеме жиынтығы</string>
+    <string name="toggle_day_birds">Құстар</string>
+    <string name="toggle_day_ocean_set">Мұхит жиынтығы</string>
+    <string name="toggle_day_sun_set">Күн батқаны</string>
+    <string name="toggle_day_butterfly">Көбелектер</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Ай</string>
+    <string name="toggle_night_stars_set">Жұлдыздар</string>
+    <string name="toggle_night_meteor">Метеориттер</string>
+    <string name="toggle_night_aurora">Аврора</string>
+    <string name="toggle_night_leaves">Түсіп жатқан жапырақтар</string>
+    <string name="toggle_night_glow_bug">Жарықтанатын жәндіктер</string>
+    <string name="toggle_night_bottom_clock">Төменгі сағат</string>
+    <string name="toggle_night_mountain">Таулар</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Батареяны үнемдеу үшін анимацияларды қосыңыз/өшіріңіз.</string>
+    <string name="reduce_animation_apply">Таңдауды қолдану</string>
+
+</resources>

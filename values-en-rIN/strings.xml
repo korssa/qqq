@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Flow Watch</string>
+
+    <!-- Title -->
+    <string name="title_flow_watch">🌞 FLOW WATCH</string>
+    <string name="desc_permissions">
+Permissions allow the app to display the clock on your home screen and run it smoothly.
+    </string>
+    <!-- Permission Labels -->
+    <string name="permission_overlay">Overlay</string>
+    <string name="permission_usage_stats">Usage Stats</string>
+
+    <!-- Permission States -->
+    <string name="status_granted">✅ Granted</string>
+    <string name="status_required">❌ Required</string>
+
+    <!-- Buttons -->
+    <string name="btn_request_overlay">Overlay Permission</string>
+    <string name="btn_overlay_granted">✅ Overlay Granted</string>
+
+    <string name="btn_request_usage">Usage Stats Permission</string>
+    <string name="btn_usage_granted">✅ Stats Granted</string>
+
+    <string name="btn_start_overlay">🚀 Start Overlay</string>
+    <string name="btn_stop_overlay">🛑 Stop Overlay</string>
+
+    <!-- Reduce animation option -->
+    <string name="btn_reduce_animation">Option: Reduce screen animations</string>
+    
+    <string name="reduce_animation_title">Reduce Animation</string>
+    <string name="reduce_animation_go_main">Go back to main</string>
+
+    <!-- Reduce Animation Sections -->
+    <string name="reduce_animation_day_section">Day mode</string>
+    <string name="reduce_animation_night_section">Night mode</string>
+
+    <!-- Day toggles -->
+    <string name="toggle_day_ship_set">Ship set</string>
+    <string name="toggle_day_birds">Birds</string>
+    <string name="toggle_day_ocean_set">Ocean set</string>
+    <string name="toggle_day_sun_set">Sun set</string>
+    <string name="toggle_day_butterfly">Butterflies</string>
+
+    <!-- Night toggles -->
+    <string name="toggle_night_moon">Moon</string>
+    <string name="toggle_night_stars_set">Stars set</string>
+    <string name="toggle_night_meteor">Meteor</string>
+    <string name="toggle_night_aurora">Aurora</string>
+    <string name="toggle_night_leaves">Falling leaves</string>
+    <string name="toggle_night_glow_bug">Glow bugs</string>
+    <string name="toggle_night_bottom_clock">Bottom clock</string>
+    <string name="toggle_night_mountain">Mountain</string>
+
+    <!-- Reduce Animation subtitles and actions -->
+    <string name="reduce_animation_subtitle">Turn on/off animations to save battery.</string>
+    <string name="reduce_animation_apply">Apply selection</string>
+
+</resources>
